@@ -1,0 +1,4 @@
+Django==3.2.10
+boto3==1.26.10
+Pillow==9.2.0
+django-storages==1.13.1
